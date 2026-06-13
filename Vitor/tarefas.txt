@@ -1,0 +1,6 @@
+🧑‍💻 Vitor — Estrutura Base + Home
+
+Desenvolver o index.html com apresentação do tema Redes Sociais
+Implementar o botão Dark/Light Theme (JS)
+Implementar o botão de acessibilidade (aumentar/diminuir fonte)
+Integrar a fonte do Google Fonts em todas as páginas

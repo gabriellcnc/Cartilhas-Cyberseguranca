@@ -1,0 +1,5 @@
+🧑‍💻 Tibolla — Sobre o Grupo + Estilo Visual
+
+Desenvolver sobre.html com foto e descrição de cada membro
+Criar e manter o arquivo /css/style.css com o visual geral do site
+Ajudar na revisão final da semântica HTML5 (<header>, <nav>, <section>, etc.) em todas as páginas

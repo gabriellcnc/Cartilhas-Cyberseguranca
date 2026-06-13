@@ -1,0 +1,5 @@
+🧑‍💻 Gregori — Páginas de Conteúdo
+
+Desenvolver content1.html → temas: Pense antes de postar, Seja seletivo ao aceitar seguidores, Limite o compartilhamento de informações
+Desenvolver content2.html → temas: Proteja o acesso à sua conta, Cuidado com aplicativos de terceiros, Não acredite em tudo que vê
+Garantir navegação funcional entre todas as páginas

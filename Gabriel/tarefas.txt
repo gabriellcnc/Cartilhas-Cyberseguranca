@@ -1,0 +1,4 @@
+🧑‍💻 Gabriel — Ferramentas + Contato
+
+Desenvolver seguranca.html com o Gerador de Senhas (letras + números + caracteres especiais) em arquivo /js/gerador.js
+Desenvolver contato.html com formulário e alerta "Página em construção" no submit
