@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+<body>
+    <header>
+        <h1>Contato</h1>
+    </header>
+    <main>
+        <form>
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="message">Mensagem:</label><br>
+            <textarea id="message" name="message" rows="5" cols="30" required></textarea><br><br>
+
+            <button type="button" onclick="enviar()">Enviar</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>Cartilha de Segurança — Redes Sociais</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
